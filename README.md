@@ -26,5 +26,5 @@ Projetos e desafios realizados durante o Bootcamp Everis Kotlin Developer da pla
 - [Conversão Simples de Base](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base.kt)
 - [Bob Conduite](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite.kt)
 
-*Made with by [Raphael Pestana](https://pleiterson.vercel.app/https://www.linkedin.com/in/raphaelpestana)*
+*Made with by [Raphael Pestana](https://www.linkedin.com/in/raphaelpestana)*
 
