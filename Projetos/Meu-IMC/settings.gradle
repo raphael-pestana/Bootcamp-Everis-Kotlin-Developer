@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Meu IMC - Descubra seu Índice de Massa Corporal"
