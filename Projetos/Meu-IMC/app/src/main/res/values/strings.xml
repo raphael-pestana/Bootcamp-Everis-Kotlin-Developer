@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Meu IMC</string>
+    <string name="ex_weight">Ex: "65.5"</string>
+    <string name="ex_height">Ex: "1.70"</string>
 </resources>
