@@ -1,6 +1,7 @@
 package com.pestana.meuimc
 
 import android.os.Bundle
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -10,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         "Magreza Grave: Procure um médico imediatamente e siga todas as orientções a risca!",
         "Magreza Moderada: Cuidado! Evite lugares com ventos fortes, pois correrá o risco de ser levado pela natureza.",
         "Magreza Leve: Que isso! Não precisava tanto! Nada que uma boa alimentação seguida por orientações de profissionais competentes que não resolva essa pequena falta de massa corporal.",
-        "Saudável: PARABÉNS! Vocês está na sua melhor forma!",
+        "Saudável: Parabéns! Vocês está na sua melhor forma!",
         "Sobrepeso: Está com uns 'pneuzinhos' né? Mas se focar consegue chegar a 18,5 de IMC em um 'piscar de olhos'.",
         "Obesidade Grau I: Tá na hora de dar uma pausa nesses 'Fast-food' que você adora. Pois se continuar assim não vai conseguir nem mais amarrar o cadarço do sapato.",
         "Obesidade Grau II (considerada severa): Seria uma boa idéia prestar mais atenção na sua saúde! Separa um tempo bacana, se excercite mais e tenha uma boa alimentação. Tudo isso é claro, acompanhado de orientação de profissionais competentes.",
@@ -29,13 +30,14 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
     private fun imcCalculator (weight: String, height: String){
     val weight = weight.toFloatOrNull()
     val height = height.toFloatOrNull()
 
         if (weight != null && height != null) {
-            val imc = weight / (height * height)
-            textResult.text = "O seu IMC é de $imc"
+            val imc = weight / (height*height)
+            textResult.text = "O seu IMC é de %.2f".format(imc)
             if (imc<16) {textInfoResult.text = resInfo[0]}
             else if (imc>=16 && imc<17) {textInfoResult.text = resInfo[1]}
             else if (imc>=17 && imc<18.5) {textInfoResult.text = resInfo[2]}
@@ -44,6 +46,7 @@ class MainActivity : AppCompatActivity() {
             else if (imc>=30 && imc<35) {textInfoResult.text = resInfo[5]}
             else if (imc>=35 && imc<40) {textInfoResult.text = resInfo[6]}
             else if (imc>=40) {textInfoResult.text = resInfo[7]}
-        }
+
+        }else{Toast.makeText(this@MainActivity, "Digite um valor Válido!", Toast.LENGTH_SHORT).show()}
     }
 }
