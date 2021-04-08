@@ -29,6 +29,6 @@ Projetos e desafios realizados durante o Bootcamp Everis Kotlin Developer da pla
 ## **:iphone: Projetos**
 
 :heavy_check_mark:[**IMC Sincero** (Calculadora IMC)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/IMC-Sincero)
-![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif){:height="500px" width="215px"}
+![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif =500x215)
 
 *Made by [Raphael Pestana](https://www.linkedin.com/in/raphaelpestana)*
