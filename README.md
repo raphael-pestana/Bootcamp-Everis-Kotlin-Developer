@@ -26,9 +26,9 @@ Projetos e desafios realizados durante o Bootcamp Everis Kotlin Developer da pla
 - [Conversão Simples de Base](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Programa%C3%A7%C3%A3o%20em%20Kotlin/Convers%C3%A3o%20Simples%20de%20Base.kt)
 - [Bob Conduite](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Desafios%20em%20Kotlin/Praticando%20Programa%C3%A7%C3%A3o%20em%20Kotlin/Bob%20Conduite.kt)
 
-## **📚 Projetos**
+## **:iphone: Projetos**
 
-:iphone::heavy_check_mark:[**IMC Sincero** (Calculadora IMC)]()
-![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif)
+:heavy_check_mark:[**IMC Sincero** (Calculadora IMC)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/IMC-Sincero)
+![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif=215x500)
 
 *Made by [Raphael Pestana](https://www.linkedin.com/in/raphaelpestana)*
