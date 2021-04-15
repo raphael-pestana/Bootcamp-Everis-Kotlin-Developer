@@ -28,13 +28,9 @@ Projetos e desafios realizados durante o Bootcamp Everis Kotlin Developer da pla
 
 ## **:iphone: Projetos**
 
-:heavy_check_mark:[**IMC Sincero** (Calculadora IMC)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/IMC-Sincero)
-
-![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif)
-
-:heavy_check_mark:[**Calculadora** (Simples)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/Calculadora)
-
-![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/Calculadora/media/Calculadora-Demo.gif)
+| :heavy_check_mark:[**IMC Sincero** (Calculadora IMC)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/IMC-Sincero) | :heavy_check_mark:[**Calculadora** (Simples)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/Calculadora) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif) | ![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/Calculadora/media/Calculadora-Demo.gif) |
 
 
 
