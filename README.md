@@ -32,6 +32,10 @@ Projetos e desafios realizados durante o Bootcamp Everis Kotlin Developer da pla
 
 ![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/IMC-Sincero/media/IMC-Sincero-Gif_Demo.gif)
 
+:heavy_check_mark:[**Calculadora** (Simples)](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/tree/main/Projetos/Calculadora)
+
+![](https://github.com/raphael-pestana/Bootcamp-Everis-Kotlin-Developer/blob/main/Projetos/Calculadora/media/Calculadora-Demo.gif)
+
 
 
 *Made by [Raphael Pestana](https://www.linkedin.com/in/raphaelpestana)*
